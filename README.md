@@ -38,7 +38,7 @@ cd nest-backend
 ```
 
 ```bash
-npm install @nestjs/swagger swagger-ui-express cache-manager @nestjs/cache-manager --save
+npm install --save @nestjs/swagger swagger-ui-express cache-manager @nestjs/cache-manager
 npm install --save @nestjs/common @nestjs/core @nestjs/platform-express
 
 nest generate resource items
